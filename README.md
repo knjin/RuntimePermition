@@ -1,6 +1,6 @@
 # RuntimePermition
 Android 6.0 application runtime permisstion, some demo
-
+![](permissionrecord.gif)
 ![危险权限和权限组](permissions.jpg)
 targetSdkVersion 是 23  的设备会需要使用运行时权限授权 
 
