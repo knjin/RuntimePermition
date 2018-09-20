@@ -31,3 +31,5 @@ if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA)!= Packag
     }
 ```
 
+使用的easypermissions https://github.com/googlesamples/easypermissions
+
